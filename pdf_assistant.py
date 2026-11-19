@@ -6,8 +6,6 @@ from phi.knowledge.pdf import PDFUrlKnowledgeBase
 from phi.vectordb.pgvector import PgVector2
 from phi.llm.ollama import Ollama
 from phi.embedder.ollama import OllamaEmbedder
-from dotenv import load_dotenv
-load_dotenv()
 
 db_url = "postgresql+psycopg://ai:ai@localhost:5532/ai"
 
