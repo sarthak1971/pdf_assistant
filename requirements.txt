@@ -11,5 +11,4 @@ ollama
 typer
 typing
 streamlit
-python-dotenv
 phi-data
