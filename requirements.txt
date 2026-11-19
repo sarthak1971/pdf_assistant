@@ -13,4 +13,3 @@ typing
 streamlit
 dotenv
 phi-data
-phi
