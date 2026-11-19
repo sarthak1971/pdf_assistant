@@ -8,3 +8,9 @@ pgvector
 psycopg[binary]
 pypdf
 ollama
+typer
+typing
+streamlit
+dotenv
+phi-data
+phi
