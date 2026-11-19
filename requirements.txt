@@ -10,5 +10,4 @@ pypdf
 ollama
 typer
 typing
-streamlit
 phi-data
